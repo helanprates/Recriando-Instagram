@@ -1,6 +1,6 @@
 # Olá! Sou Helan Prates
 
-  Trabalhando na construção do meu repositó.
+  Trabalhando na construção do meu repositório.
  - Cursando o Bootcamp Fullstack Developer Santander na DIO.
  
   <div align="rigt">
